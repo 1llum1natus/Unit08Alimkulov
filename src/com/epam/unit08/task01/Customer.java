@@ -4,7 +4,7 @@ class Customer {
 	
 	private int id;
 	private String surname;
-	private String first_name;
+	private String first_name;// когда мы уже выучим Code Convention
 	private String fathers_name;
 	private String address_line;
     private int pan;
